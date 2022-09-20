@@ -1,0 +1,8 @@
+config.txt
+data/
+
+# gitignore juga dapat mengabaikan sebuah file dengan nama formatnya
+# contohnya
+
+*.exe
+# kode diatas berartikan git abaikan semua file yg berekstensi exe
